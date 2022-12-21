@@ -1,15 +1,9 @@
-# MERN E-COMMERCE TUTORIAL
-
-Hi! My name is **Abhishek Singh**, I have created this tutorial to teach MERN Stack for free on YouTube.
+# MERN E-COMMERCE PROJECT
+Hi! My name is **Abhijeet Chauhan**, I have created this project by using MERN Stack technology.
 
 # Prerequisite
 
-1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** . _I have made tutorial on each technology on YouTube , make sure to check it out_. **Links are Below respectively**
-2.  Node - https://youtu.be/BSO9C8Z-YV8
-3.  React - https://youtu.be/99kgUCIMboY
-4.  Express - https://youtu.be/teipbke8c4A\
-5.  MongoDB - https://youtu.be/AYDP1S5BbTo
-6.  RestApi - https://youtu.be/AhCSfuG9Jxw _(optional)_
+1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** .
 
 # Install Dependencies
 
@@ -41,7 +35,5 @@ _fill each filed with your info respectively_
 
 ## Author
 
-**Instagram** Click [Here](https://www.instagram.com/meabhisingh) **@meAbhiSingh**
-**YouTube** Click [Here](https://www.youtube.com/channel/UCO7afj9AUo0zV69pqEYhcjw/) **6 Pack Programmer**
-**LinkedIn** Click [Here](https://in.linkedin.com/in/meabhisingh) **@meAbhiSingh**
-**Twitter** Click [Here](https://twitter.com/meAbhi_Singh) **@meAbhi_Singh**
+**Instagram** Click [Here](https://www.instagram.com/youabhijeet007/?hl=en) **youabhijeet007**
+**LinkedIn** Click [Here](https://www.linkedin.com/in/abhijeet-chauhan-444893163/) **Abhijeet_Chauhan**
